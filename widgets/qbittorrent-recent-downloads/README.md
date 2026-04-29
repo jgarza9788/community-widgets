@@ -9,14 +9,14 @@ At-a-***glance*** view your recent downloads
 * And Add your IP address to the WhiteList.
 * Save.
 
-![Prerequisites (Required)](./preview1.png)
+![Prerequisites (Required)](./setup.png)
 
 ### Setup
 Give the widget a quick read through (it's not too long)
 
 
 ### Preview
-![Preview](./preview2.png)
+![Preview](./preview1.png)
 
 ```yaml
 - type: custom-api

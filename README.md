@@ -147,6 +147,7 @@ A collection of custom widgets for <a href="https://github.com/glanceapp/glance"
 * [Weather Seven Day](widgets/weather-seven-day/README.md) - shows daily weather conditions and high and low temperature from Open-Meteo for a specified location (by @brandonsie)
 * [What's Up Docker Monitor](widgets/wud-monitor/README.md) - a customizable widget for displaying the wud data about containers (by @panonim)
 * [YouTube Embedded Player](widgets/youtube-embedded-player/README.md) - a grid-card layout of YouTube List with Embed player pulled from either RSS-Bridge or FreshRSS (by @ralphocdol)
+* [qBittorrent Recent Downloads](widgets/qbittorrent-recent-downloads) - show qBittorrent recent downloads (by @jgarza9788)
 * [qBittorrent Stats](widgets/qbittorrent-stats/README.md) - show qBittorrent downloads (by @danzkigg)
 * [ufc-fight-tracker](widgets/ufc-fight-tracker/README.md) - shows a preview of upcoming events in the UFC using the ESPN API (by @xZinio)
 * [xkcd Widget](widgets/xkcd-widget/README.md) - a custom simple widget that displays current xkcd comic (by @AllanAAbraham)

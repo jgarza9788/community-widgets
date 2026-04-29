@@ -574,6 +574,7 @@
     <p align="center"><a href="widgets/youtube-embedded-player/README.md"><img src="widgets/youtube-embedded-player/preview.png"></a></p>
 </td>
   </tr>
+  
   <tr>
     <td valign="top">
     <p align="center"><a href="widgets/qbittorrent-stats/README.md">qBittorrent Stats</a><br>by <a href="https://github.com/danzkigg">@danzkigg</a><p>
